@@ -1,20 +1,4 @@
-<a href="https://www.delta-code.online/" target="_blank">
-  <img src="https://github.com/XCr-9/XCr-9/assets/86276393/a8aacd9e-ea05-4f30-a2f2-9c4d55232ba4" alt="Assinatura de Lucas da Delta Code" height="89px" />
-</a>
-<table align="right">
-  <tr>
-    <td height="43px">
-      <b>
-        <a href="README.md">Português 🇧🇷</a>
-      </b>
-    </td>
-  </tr>
-  <tr>
-    <td height="43px">
-      <a href="readme-en.md">English 🇺🇸</a>
-    </td>
-  </tr>
-</table>
+
 <hr/>
 
 <a href="https://github.com/XCr-9/github-profile-background-photo" alt="Repositório do Banner Animado de Luk4x">
