@@ -1,10 +1,9 @@
 
 <hr/>
-
 <!-- <a href="https://github.com/XCr-9/github-profile-background-photo" alt="Repositório do Banner Animado de XCr-9"> -->
   <img align="center" width="100%" alt="Banner Animado do Github do XCr-9" src="./images/wallpaper.jpg" />
 <!-- </a> -->
-<br/><br/>
+<br/>
 
 <hr/>
 
