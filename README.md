@@ -5,7 +5,7 @@
 <!-- </a> -->
 <hr/>
 
-<img align="center" src="./components/titles/pt/about.png" width="100%" alt="Título da seção Sobre Mim" />
+<img align="center" src="./components/titles/en/about.png" width="100%" alt="Título da seção Sobre Mim" />
 <img align="right" src="./images/analysis.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 <ul>
   <li>🤩️ Apaixonado por Programação, Animes e Música.</li>
@@ -33,7 +33,7 @@
 </div>
 <hr/>
 
-<img align="center" src="./components/titles/pt/stack.png" width="100%" alt="Título da seção Minha Stack" />
+<img align="center" src="./components/titles/en/stack.png" width="100%" alt="Título da seção Minha Stack" />
 <img align="left" width="254px" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" />
 <table align="right" height="255px">
   <tr>
@@ -342,7 +342,7 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
-<img align="center" src="./components/titles/pt/contact.png" width="100%" alt="Título da seção Contato" />
+<img align="center" src="./components/titles/en/contact.png" width="100%" alt="Título da seção Contato" />
 <img align="right" width="185px" src="./images/oh-ok.gif" alt="Garota trabalhando com programação"/>
 <br/><br/>
 <p align="center">
@@ -352,32 +352,20 @@
     &nbsp;
   </a>
   -->
-  <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
+  <a href="mailto:t.t.first.dev@gmail.com" target="_blank">
     <img src="./components/icons/gmail.png" alt="Etiqueta do Gmail" height="30px" />
     &nbsp;
   </a>
-  <a href="https://www.linkedin.com/in/lucasmacielf/" target="_blank">
+  <a href="https://www.linkedin.com/in//" target="_blank">
     <img src="./components/icons/linkedin.png" alt="Etiqueta do Linkedin" height="30px" />
     &nbsp;
   </a>
-  <a href="https://cursos.alura.com.br/vitrinedev/lucasmacielf" target="_blank">
-    <img src="./components/icons/vitrine-dev.png" alt="Etiqueta da Vitrine.Dev" height="30px" />
-    &nbsp;
-  </a>
-  <a href="https://t.me/lu_k4x" target="_blank">
+  <a href="https://t.me/Oyase" target="_blank">
     <img src="./components/icons/telegram.png" alt="Etiqueta do Telegram" height="30px" />
     &nbsp;
   </a>
-  <a href="https://wa.me/5522996112570?text=Yo,%20Luk4x!%20Vim%20pelo%20seu%20Github!" target="_blank">
+  <a href="https://wa.me/447440023305?text=Yo,%20Luk4x!%20Vim%20pelo%20seu%20Github!" target="_blank">
     <img src="./components/icons/whatsapp.png" alt="Etiqueta do Whatsapp" height="30px" />
-    &nbsp;
-  </a>
-  <a href="https://www.instagram.com/lu_k4x/" target="_blank">
-    <img src="./components/icons/instagram.png" alt="Etiqueta do Instagram" height="30px" />
-    &nbsp;
-  </a>
-  <a href="https://stackoverflow.com/users/18881418/lucas-maciel" target="_blank">
-    <img src="./components/icons/stack-overflow.png" alt="Etiqueta do Stack Overflow" height="30px" />
     &nbsp;
   </a>
   <img src="./components/icons/discord.png" alt="Etiqueta do Discord" height="30px" />
@@ -385,7 +373,7 @@
 <br/><br/>
 <hr/>
 
-<img align="center" src="./components/titles/pt/project.png" width="100%" alt="Título da seção Projetos" />
+<img align="center" src="./components/titles/en/projects.png" width="100%" alt="Título da seção Projetos" />
 <img align="left" src="./images/projects-wallpaper.gif" height="495px" alt="Garoto programando, trabalhando em seus projetos pessoais" />
 <table height="495px" align="right">
   <tr>
@@ -546,7 +534,7 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <hr/>
 
-<img align="center" src="./components/titles/pt/activity.png" width="100%" alt="Título da seção Atividade" />
+<img align="center" src="./components/titles/en/activity.png" width="100%" alt="Título da seção Atividade" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Luk4x&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 <img align="left" height="415px" src="https://luk4x-github-readme-stats.vercel.app/api/top-langs?username=Luk4x&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Top%20Linguagens&cache_seconds=14400" />
 <div align="right">
