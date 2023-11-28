@@ -5,9 +5,7 @@
   <img align="center" width="100%" alt="Banner Animado do Github do Luk4x" src="./images/wallpaper-pt.apng" />
 </a>
 <br/><br/>
-<div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
-</div>
+
 <hr/>
 
 <img align="center" src="./components/titles/pt/about.png" width="100%" alt="Título da seção Sobre Mim" />
