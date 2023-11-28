@@ -1,25 +1,9 @@
-<a href="https://www.delta-code.online/" target="_blank">
-  <img src="https://github.com/XCr-9/XCr-9/assets/86276393/a8aacd9e-ea05-4f30-a2f2-9c4d55232ba4" alt="Assinatura de Lucas da Delta Code" height="89px" />
-</a>
-<table align="right">
-  <tr>
-    <td height="43px">
-      <b>
-        <a href="README.md">Português 🇧🇷</a>
-      </b>
-    </td>
-  </tr>
-  <tr>
-    <td height="43px">
-      <a href="readme-en.md">English 🇺🇸</a>
-    </td>
-  </tr>
-</table>
+
 <hr/>
 
-<a href="https://github.com/XCr-9/github-profile-background-photo" alt="Repositório do Banner Animado de Luk4x">
-  <img align="center" width="100%" alt="Banner Animado do Github do Luk4x" src="./images/wallpaper-pt.apng" />
-</a>
+<!-- <a href="https://github.com/XCr-9/github-profile-background-photo" alt="Repositório do Banner Animado de XCr-9"> -->
+  <img align="center" width="100%" alt="Banner Animado do Github do XCr-9" src="./images/wallpaper.jpg" />
+<!-- </a> -->
 <br/><br/>
 <div align="center">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=luk4x&repo=luk4x&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Luk4x" height="40px" />
