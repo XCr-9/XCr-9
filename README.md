@@ -41,7 +41,7 @@
           </b>
         </sub>
       </a>
-    </td>
+    </td>https://github.com/XCr-9/XCr-9/blob/main/README.md
     <td align="center">
       <a href="https://www.typescriptlang.org/">
         <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
@@ -361,8 +361,8 @@
 <table height="495px" align="right">
   <tr>
     <td>
-    <a href="https://github.com/Luk4x/apple-store" target="_blank">
-      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=apple-store&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
+    <a href="https://github.com/XCr-9/Blockchain-" target="_blank">
+      <img align="center" src="https://luk4x-github-readme-stats.vercel.app/api/pin?username=Luk4x&repo=Blockchain&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=14400"/>
     </a>
     </td>
   </tr>
