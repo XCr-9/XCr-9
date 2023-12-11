@@ -41,7 +41,7 @@
           </b>
         </sub>
       </a>
-    </td>https://github.com/XCr-9/XCr-9/blob/main/README.md
+    </td>
     <td align="center">
       <a href="https://www.typescriptlang.org/">
         <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
