@@ -8,7 +8,7 @@
 <img align="center" src="./components/titles/en/about.png" width="100%" alt="Título da seção Sobre Mim" />
 <img align="right" src="./images/analysis.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 <ul>
-  <li>Passionate Full Stack & Blockchain Developer offering 5+ years of relevant exp erience in Blockchain, ML and Robotic. I have experience developing DeFi, DEX , DApp, Trading Bot, Token, autonomous systems and artificial intelligence. I a m fluent in Solidity, Web3.js, Python and JavaScript ,and have worked on a vari ety of projects as a project manager, helping clients achieve their goals. I am al so keen on several JavaScript and Python web frameworks like Vue, React, Dja ngo and Flask I am a life-long learner and is looking forward to working on exci ting and challenging projects. I am continuously trying to improve, learn more and gain new experiences. With a strong attention to detail and accuracy and t he important ability to function well in a team setting. Looking for a Blockchain Developer job within a forward-moving company.</li>
+  <li>I am a full stack and Blockchain developer. I have experience developing DeFi, DEX , DApp, Trading Bot, Token, autonomous systems and artificial intelligence. I a m fluent in Solidity, Web3.js, Python and JavaScript ,and have worked on a vari ety of projects as a project manager, helping clients achieve their goals. I am continuously trying to improve, learn more and gain new experiences. With a strong attention to detail and accuracy and t he important ability to function well in a team setting. Looking for a Blockchain Developer job within a forward-moving company.</li>
 </ul>
 <br/>
 <div align="center">
