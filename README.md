@@ -10,7 +10,7 @@
 <ul>
   <li>I am a full stack and Blockchain developer. I have experience developing DeFi, DEX , DApp, Trading Bot, Token, autonomous systems and artificial intelligence. I a m fluent in Solidity, Web3.js, Python and JavaScript ,and have worked on a vari ety of projects as a project manager, helping clients achieve their goals. I am continuously trying to improve, learn more and gain new experiences. With a strong attention to detail and accuracy and t he important ability to function well in a team setting. Looking for a Blockchain Developer job within a forward-moving company.</li>
 </ul>
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <div align="center">
   <a href="https://open.spotify.com/user/317pewkddeii2h3hfvslij6zwwdy" target="_blank">
     <img src="https://luk4x-spotify-readme.vercel.app/api?theme=dark&scan=true" alt="Música que está tocando no Spotify do Luk4x no momento" />
