@@ -332,15 +332,15 @@
     &nbsp;
   </a>
   -->
-  <a href="mailto:t.t.first.dev@gmail.com" target="_blank">
+  <a href="mailto:khondhokarmetareq@gmail.com" target="_blank">
     <img src="./components/icons/gmail.png" alt="Etiqueta do Gmail" height="30px" />
     &nbsp;
   </a>
-  <a href="https://www.linkedin.com/in//" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-kabir-b620a3204" target="_blank">
     <img src="./components/icons/linkedin.png" alt="Etiqueta do Linkedin" height="30px" />
     &nbsp;
   </a>
-  <a href="https://t.me/Oyase" target="_blank">
+  <a href="https://t.me/alibaba220413" target="_blank">
     <img src="./components/icons/telegram.png" alt="Etiqueta do Telegram" height="30px" />
     &nbsp;
   </a>
@@ -349,7 +349,7 @@
   </a>
 </p>
 <br/><br/>
-<hr/>
+
 
 <hr/>
 
